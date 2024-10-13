@@ -1,7 +1,6 @@
 # DarkModeExtension
-**Version**: 2.0.0  
-**Developer**: Parul Raut  
-**Email**: parulraut0110@gmail.com  
+
+**Version**: 2.0.0   
 **Published Extension**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/darkmodeextension/jcgmljkndiijbonfbbhibbfidmbdojfl?authuser=2)
 
 ## Introduction
@@ -52,4 +51,5 @@ If you need help with using the extension or troubleshooting issues, feel free t
 ## Developer Information
 **Developer**: Parul Raut  
 **Email**: parulraut0110@gmail.com  
-**Published Extension URL**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/darkmodeextension/jcgmljkndiijbonfbbhibbfidmbdojfl?authuser=2)
+**Published Extension**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/darkmodeextension/jcgmljkndiijbonfbbhibbfidmbdojfl?authuser=2)
+
