@@ -29,4 +29,5 @@ Invert.io is a Chrome extension that allows instant dark mode/light mode switchi
 - `scripting`: Needed to inject scripts into web pages for applying dark mode/light mode.
 
 ## LICENSE
-This project is licensed under the [MIT] License - see the LICENSE.md file for details
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/parulraut0110/DarkModeExtension/blob/main/LICENSE.md) file for details.
+
