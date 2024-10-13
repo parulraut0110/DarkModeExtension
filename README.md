@@ -36,7 +36,8 @@ Invert.io is a Chrome extension that provides instant dark mode/light mode switc
 - Reset to default settings by clicking the "Default" button.
 
 ## Screenshots
-![Screenshot](screenshots/screenshot.png)
+
+![image](https://github.com/user-attachments/assets/97a0b5c2-af61-438b-9ca7-6f392c054e07)
 
 ## Permissions
 - `activeTab`: Required to access the active tab for applying filters.
