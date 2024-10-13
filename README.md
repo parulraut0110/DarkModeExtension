@@ -1,9 +1,24 @@
 # DarkModeExtension
+**Version**: 2.0.0  
+**Developer**: Parul Raut  
+**Email**: parulraut0110@gmail.com  
+**Published Extension**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/darkmodeextension/jcgmljkndiijbonfbbhibbfidmbdojfl?authuser=2)
 
-### Version: 2.0.0
+## Introduction
+DarkModeExtension (Invert.io) is a versatile Chrome extension that allows users to easily switch between dark mode and light mode on websites. It is designed to improve web browsing comfort, especially for users who prefer darker themes at night or brighter themes during the day. With an intuitive interface, users can adjust contrast, saturation, and grayscale for a customized experience. Developed by Parul Raut, this extension brings flexibility to your browsing environment by letting you fine-tune the display settings to your liking.
 
 ## Description
-Invert.io is a Chrome extension that allows instant dark mode/light mode switching on websites.
+Invert.io is a Chrome extension that provides instant dark mode/light mode switching on websites. With added functionalities to control image and media filters, you can create a more comfortable viewing experience. 
+
+## Index
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Permissions](#permissions)
+- [License](#license)
+- [Help](#help)
+- [Developer Information](#developer-information)
 
 ## Features
 - Toggle between dark mode and light mode with a single click.
@@ -31,3 +46,10 @@ Invert.io is a Chrome extension that allows instant dark mode/light mode switchi
 ## LICENSE
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/parulraut0110/DarkModeExtension/blob/main/LICENSE.md) file for details.
 
+## Help
+If you need help with using the extension or troubleshooting issues, feel free to reach out to the developer.
+
+## Developer Information
+**Developer**: Parul Raut  
+**Email**: parulraut0110@gmail.com  
+**Published Extension URL**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/darkmodeextension/jcgmljkndiijbonfbbhibbfidmbdojfl?authuser=2)
