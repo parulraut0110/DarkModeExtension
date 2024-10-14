@@ -64,7 +64,7 @@ Invert.io is a Chrome extension that provides instant dark mode/light mode switc
 ## LICENSE
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/parulraut0110/DarkModeExtension/blob/main/LICENSE.md) file for details.
 
-The icon used in this project is also licensed under the [MIT License](link).
+The icon used in this project is also licensed under the [Flaticon](https://github.com/parulraut0110/DarkModeExtension/blob/main/icon-licence.pdf).
 
 ---
 
